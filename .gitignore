@@ -1,0 +1,8 @@
+yeoman/node_modules
+yeoman/dist
+yeoman/.tmp
+yeoman/.sass-cache
+yeoman/bower_components
+yeoman/test/bower_components
+platforms
+plugins/*.json
